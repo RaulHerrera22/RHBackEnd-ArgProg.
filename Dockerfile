@@ -1,0 +1,4 @@
+FROM alpine:3.17
+MAINTAINER RH
+COPY target/RH-0.0.1-SNAPSHOT.jar RH-0.0.1-SNAPSHOT.jar
+ENTRYPOINT ["java","-jar","/RH-0.0.1-SNAPSHOT.jar"]
