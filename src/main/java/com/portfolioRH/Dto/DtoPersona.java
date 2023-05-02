@@ -4,7 +4,6 @@
  */
 package com.portfolioRH.Dto;
 
-import jakarta.validation.constraints.NotBlank;
 
 import jakarta.validation.constraints.NotBlank;
 
