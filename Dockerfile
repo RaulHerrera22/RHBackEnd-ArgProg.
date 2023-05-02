@@ -8,6 +8,6 @@
 # Package stage
 #
 FROM openjdk:17-jdk-slim
-MAINTAINER RH
+
 COPY --from=build /target/RH-0.0.1-SNAPSHOT.jar app.jar
 ENTRYPOINT ["java","-jar","app.jar"]
