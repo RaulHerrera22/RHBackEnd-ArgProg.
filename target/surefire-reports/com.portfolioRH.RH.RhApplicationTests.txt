@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.portfolioRH.RH.RhApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 27.072 s - in com.portfolioRH.RH.RhApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 21.497 s - in com.portfolioRH.RH.RhApplicationTests
