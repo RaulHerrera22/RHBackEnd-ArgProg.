@@ -18,7 +18,6 @@ com\portfolioRH\Service\SHardSkills.class
 com\portfolioRH\Security\Service\UsuarioService.class
 com\portfolioRH\Repository\REducacion.class
 com\portfolioRH\Security\MainSecurity.class
-com\portfolioRH\WebConfig.class
 com\portfolioRH\Security\jwt\JwtEntryPoint.class
 com\portfolioRH\Controller\CHyS.class
 com\portfolioRH\Controller\personaController.class
